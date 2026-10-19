@@ -1,0 +1,340 @@
+{
+  "articles": [
+    {
+      "slug": "the-liquidity-event-you-didnt-plan-for",
+      "title": "The Liquidity Event You Didn’t Plan For",
+      "date": "2026-09-02",
+      "category": "Perspectives",
+      "image": "the-liquidity-event-you-didnt-plan-for",
+      "excerpt": "Most people imagine sudden wealth as a lottery ticket. In reality, it often arrives in less dramatic forms: an inheritance you didn’t expect for another decade, the sale of a business you’ve spent 20 years…",
+      "source": "https://www.legacygr.com/news/the-liquidity-event-you-didnt-plan-for/",
+      "video": false,
+      "hero": "the-liquidity-event-you-didnt-plan-for-2"
+    },
+    {
+      "slug": "funding-your-trust",
+      "title": "Funding Your Trust",
+      "date": "2026-07-09",
+      "category": "Perspectives",
+      "image": "funding-your-trust",
+      "excerpt": "What belongs in your revocable trust, and what doesn’t?",
+      "source": "https://www.legacygr.com/news/funding-your-trust/",
+      "video": true,
+      "hero": null
+    },
+    {
+      "slug": "estate-planning-essentials-ranking-the-documents-that-matter-most",
+      "title": "Estate Planning Essentials: Ranking The Documents That Matter Most",
+      "date": "2026-05-13",
+      "category": "Perspectives",
+      "image": "estate-planning-essentials-ranking-the-documents-that-matter-most",
+      "excerpt": "Which estate planning documents matter most, and why? Brian Balke, Senior Portfolio Manager and Wealth Advisor and Kelly DeRidder, Senior Wealth Advisor, break it down in our latest perspectives video.",
+      "source": "https://www.legacygr.com/news/estate-planning-essentials-ranking-the-documents-that-matter-most/",
+      "video": true,
+      "hero": null
+    },
+    {
+      "slug": "the-michigan-retirement-income-exemption",
+      "title": "The Michigan Retirement Income Exemption",
+      "date": "2026-04-30",
+      "category": "Perspectives",
+      "image": "the-michigan-retirement-income-exemption",
+      "excerpt": "Michigan’s retirement income tax rules have evolved significantly over the years, creating complexity and confusion for many retirees. The creation of retirement income deduction, based on year of birth, has…",
+      "source": "https://www.legacygr.com/news/the-michigan-retirement-income-exemption/",
+      "video": false,
+      "hero": "the-michigan-retirement-income-exemption-2"
+    },
+    {
+      "slug": "state-of-the-market",
+      "title": "State Of The Market",
+      "date": "2026-04-14",
+      "category": "Perspectives",
+      "image": "state-of-the-market",
+      "excerpt": "Brian Balke, Senior Portfolio Manager & Wealth Advisor and Steve Doorn, Chief Investment Officer, discuss the state of the market in light of all the volatility we have seen and what the outlook for equities…",
+      "source": "https://www.legacygr.com/news/state-of-the-market/",
+      "video": true,
+      "hero": null
+    },
+    {
+      "slug": "tariffs-1-year-later",
+      "title": "Tariff Update 1 Year Later",
+      "date": "2026-03-31",
+      "category": "Perspectives",
+      "image": "tariffs-1-year-later",
+      "excerpt": "One year ago, President Donald Trump fundamentally reshaped global trade by imposing tariffs on nearly every country in the world. The initial tariffs along with the subsequent, frequent revisions to tariff…",
+      "source": "https://www.legacygr.com/news/tariffs-1-year-later/",
+      "video": false,
+      "hero": "tariffs-1-year-later-2"
+    },
+    {
+      "slug": "2026-portfolio-insights-fixed-income-and-cash",
+      "title": "2026 Portfolio Insights, Fixed Income and Cash",
+      "date": "2026-02-23",
+      "category": "Perspectives",
+      "image": "2026-portfolio-insights-fixed-income-and-cash",
+      "excerpt": "Brian Balke, Senior Portfolio Manager & Wealth Advisor and Steve Doorn, Chief Investment Officer, share Legacy Trust’s approach to cash and fixed income, including how liquidity is positioned and how fixed…",
+      "source": "https://www.legacygr.com/news/2026-portfolio-insights-fixed-income-and-cash/",
+      "video": true,
+      "hero": null
+    },
+    {
+      "slug": "2026-market-and-economic-outlook",
+      "title": "2026 Market and Economic Outlook",
+      "date": "2026-01-16",
+      "category": "Perspectives",
+      "image": "2026-market-and-economic-outlook",
+      "excerpt": "Brian Balke, Senior Portfolio Manager & Wealth Advisor and Steve Doorn, Chief Investment Officer share the market and economic outlook as we head into 2026, touching on tariffs, consumer health, valuations,…",
+      "source": "https://www.legacygr.com/news/2026-market-and-economic-outlook/",
+      "video": true,
+      "hero": null
+    },
+    {
+      "slug": "donor-advised-funds-a-flexible-way-to-give",
+      "title": "Donor-Advised Funds: A Flexible Way to Give",
+      "date": "2025-12-22",
+      "category": "Perspectives",
+      "image": "donor-advised-funds-a-flexible-way-to-give",
+      "excerpt": "Charitable giving during one’s lifetime is a meaningful way to make a positive impact. Combine this with potential tax benefits, and it’s even more compelling. However, record keeping is burdensome, and tax…",
+      "source": "https://www.legacygr.com/news/donor-advised-funds-a-flexible-way-to-give/",
+      "video": false,
+      "hero": "donor-advised-funds-a-flexible-way-to-give-2"
+    },
+    {
+      "slug": "valuations-and-returns-beyond-2025",
+      "title": "Valuations and Returns Beyond 2025",
+      "date": "2025-10-30",
+      "category": "Perspectives",
+      "image": "valuations-and-returns-beyond-2025",
+      "excerpt": "High starting valuations are generally associated with lower long-term forward returns. Although valuation metrics are weak short-term return predictors, history tells us that market returns using a 5-10 year…",
+      "source": "https://www.legacygr.com/news/valuations-and-returns-beyond-2025/",
+      "video": false,
+      "hero": "valuations-and-returns-beyond-2025-2"
+    },
+    {
+      "slug": "where-do-we-stand-with-tariffs",
+      "title": "Where Do We Stand With Tariffs",
+      "date": "2025-09-08",
+      "category": "Perspectives",
+      "image": "where-do-we-stand-with-tariffs",
+      "excerpt": "On April 2, 2025, President Donald Trump unveiled a sweeping trade policy that shocked global markets, calling it “Liberation Day”. The administration implemented a minimum 10% tariff on all U.S. imports, with…",
+      "source": "https://www.legacygr.com/news/where-do-we-stand-with-tariffs/",
+      "video": false,
+      "hero": "where-do-we-stand-with-tariffs-2"
+    },
+    {
+      "slug": "bubble-jeopardy-the-differences-between-a-market-cycle-and-its-problematic-relative-the-financial-bubble",
+      "title": "Bubble Jeopardy: The Differences Between A Market Cycle And Its Problematic Relative, The Financial Bubble",
+      "date": "2025-05-29",
+      "category": "Perspectives",
+      "image": "bubble-jeopardy-the-differences-between-a-market-cycle-and-its-problematic-relative-the-financial-bubble",
+      "excerpt": "While sharing a similar rise-and-fall pattern, there are several key differences between a regular market cycle and the wild ride offered by financial bubbles.",
+      "source": "https://www.legacygr.com/news/bubble-jeopardy-the-differences-between-a-market-cycle-and-its-problematic-relative-the-financial-bubble/",
+      "video": false,
+      "hero": "bubble-jeopardy-the-differences-between-a-market-cycle-and-its-problematic-relative-the-financial-bubble-2"
+    },
+    {
+      "slug": "bitcoin-an-update-on-the-mercurial-cryptocurrency",
+      "title": "Bitcoin, An Update on the Mercurial Cryptocurrency",
+      "date": "2024-04-24",
+      "category": "Investment Insights",
+      "image": "bitcoin-an-update-on-the-mercurial-cryptocurrency",
+      "excerpt": "In the ever-evolving landscape of cryptocurrency, few assets capture the attention and imagination quite like Bitcoin. From its humble beginnings in 2009 to its status as a global phenomenon, Bitcoin continues…",
+      "source": "https://www.legacygr.com/news/bitcoin-an-update-on-the-mercurial-cryptocurrency/",
+      "video": false,
+      "hero": "bitcoin-an-update-on-the-mercurial-cryptocurrency-2"
+    },
+    {
+      "slug": "brian-balke-among-crains-40-under-40-class-of-2026",
+      "title": "Brian Balke Among Crain’s 40 Under 40 Class Of 2026",
+      "date": "2026-09-21",
+      "category": "News",
+      "image": "brian-balke-among-crains-40-under-40-class-of-2026",
+      "excerpt": "Congratulations to Brian Balke, CFP®, CIMA®, Senior Portfolio Manager & Wealth Advisor at Legacy Trust, on being named to Crain’s Grand Rapids Business 40 Under 40 Class of 2026. This recognition celebrates…",
+      "source": "https://www.legacygr.com/news/brian-balke-among-crains-40-under-40-class-of-2026/",
+      "video": false,
+      "hero": "brian-balke-among-crains-40-under-40-class-of-2026-2"
+    },
+    {
+      "slug": "brian-balke-joins-heart-of-west-michigan-united-way-board",
+      "title": "Brian Balke joins Heart of West Michigan United Way Board",
+      "date": "2026-07-28",
+      "category": "News",
+      "image": "brian-balke-joins-heart-of-west-michigan-united-way-board",
+      "excerpt": "Legacy Trust is proud to share that Brian Balke has joined the Heart of West Michigan United Way Board of Directors. His dedication to leadership and community involvement will help support the organization’s…",
+      "source": "https://www.legacygr.com/news/brian-balke-joins-heart-of-west-michigan-united-way-board/",
+      "video": false,
+      "hero": "brian-balke-joins-heart-of-west-michigan-united-way-board-2"
+    },
+    {
+      "slug": "hope-lee-joins-legacy-trust",
+      "title": "Hope Lee joins Legacy Trust",
+      "date": "2026-07-07",
+      "category": "News",
+      "image": "hope-lee-joins-legacy-trust",
+      "excerpt": "Please join us in welcoming Hope Lee to the Legacy Trust team as a Senior Client Service Associate.",
+      "source": "https://www.legacygr.com/news/hope-lee-joins-legacy-trust/",
+      "video": false,
+      "hero": "hope-lee-joins-legacy-trust-2"
+    },
+    {
+      "slug": "welcoming-bill-harrison-to-our-team",
+      "title": "Welcoming Bill Harrison To Our Team",
+      "date": "2026-04-23",
+      "category": "News",
+      "image": "welcoming-bill-harrison-to-our-team",
+      "excerpt": "We’re excited to welcome Bill Harrison to the team as a Wealth Advisor! Bill brings a strong background in the financial services industry and valuable experience that will complement our growing organization.…",
+      "source": "https://www.legacygr.com/news/welcoming-bill-harrison-to-our-team/",
+      "video": false,
+      "hero": "welcoming-bill-harrison-to-our-team-2"
+    },
+    {
+      "slug": "legacy-trust-named-one-of-west-michigans-best-and-brightest-companies-to-work-for-2",
+      "title": "Legacy Trust Named One Of West Michigan’s Best And Brightest Companies To Work For",
+      "date": "2026-03-20",
+      "category": "News",
+      "image": "legacy-trust-named-one-of-west-michigans-best-and-brightest-companies-to-work-for-2",
+      "excerpt": "We’re incredibly proud to share that we’ve once again been recognized as one of West Michigan’s Best and Brightest Companies to Work For, making this our 9th consecutive year receiving this honor!",
+      "source": "https://www.legacygr.com/news/legacy-trust-named-one-of-west-michigans-best-and-brightest-companies-to-work-for-2/",
+      "video": false,
+      "hero": "legacy-trust-named-one-of-west-michigans-best-and-brightest-companies-to-work-for-2-2"
+    },
+    {
+      "slug": "icles-66th-annual-probate-estate-planning-conference",
+      "title": "ICLE’s 66th Annual Probate & Estate Planning Conference",
+      "date": "2026-05-18",
+      "category": "News",
+      "image": "icles-66th-annual-probate-estate-planning-conference",
+      "excerpt": "A few of our team members had the opportunity to attend the 66th Annual Probate & Estate Planning Institute hosted by ICLE in Traverse City last week.",
+      "source": "https://www.legacygr.com/news/icles-66th-annual-probate-estate-planning-conference/",
+      "video": false,
+      "hero": "icles-66th-annual-probate-estate-planning-conference-2"
+    },
+    {
+      "slug": "legacy-trust-leaders-named-to-crains-gr200",
+      "title": "Legacy Trust Leaders Named to Crain’s GR200",
+      "date": "2025-10-16",
+      "category": "News",
+      "image": "legacy-trust-leaders-named-to-crains-gr200",
+      "excerpt": "We’re proud to share that our CEO and President, Tracey Hornbeck, has been named one of Crain’s Grand Rapids Business 200 Most Influential Leaders in West Michigan!",
+      "source": "https://www.legacygr.com/news/legacy-trust-leaders-named-to-crains-gr200/",
+      "video": false,
+      "hero": "legacy-trust-leaders-named-to-crains-gr200-2"
+    },
+    {
+      "slug": "legacy-trust-at-kids-food-basket",
+      "title": "Legacy Trust at Kids Food Basket",
+      "date": "2026-10-13",
+      "category": "In The Community",
+      "image": "legacy-trust-at-kids-food-basket",
+      "excerpt": "Giving back to our community is an important tradition for our team.",
+      "source": "https://www.legacygr.com/news/legacy-trust-at-kids-food-basket/",
+      "video": false,
+      "hero": "legacy-trust-at-kids-food-basket-2"
+    },
+    {
+      "slug": "legacy-at-wmsc-annual-golf-outing",
+      "title": "Legacy at WMSC Annual Golf Outing",
+      "date": "2026-09-04",
+      "category": "In The Community",
+      "image": "legacy-at-wmsc-annual-golf-outing",
+      "excerpt": "Legacy Trust was proud to be a sponsor of the West Michigan Sports Commission Annual Golf Outing on September 2 at Thornapple Pointe Golf Club. Thank you to the WMSC for bringing together so many great…",
+      "source": "https://www.legacygr.com/news/legacy-at-wmsc-annual-golf-outing/",
+      "video": false,
+      "hero": "legacy-at-wmsc-annual-golf-outing-2"
+    },
+    {
+      "slug": "legacy-trust-at-davenport-universitys-40th-annual-scholarship-golf-classic",
+      "title": "Legacy Trust at Davenport University’s 40th Annual Scholarship Golf Classic",
+      "date": "2026-08-11",
+      "category": "In The Community",
+      "image": "legacy-trust-at-davenport-universitys-40th-annual-scholarship-golf-classic",
+      "excerpt": "Legacy Trust was honored to be a sponsor of Davenport University’s 40th Annual Scholarship Golf Classic at Egypt Valley County Club! For 40 years, this event has brought people together to support student…",
+      "source": "https://www.legacygr.com/news/legacy-trust-at-davenport-universitys-40th-annual-scholarship-golf-classic/",
+      "video": false,
+      "hero": "legacy-trust-at-davenport-universitys-40th-annual-scholarship-golf-classic-2"
+    },
+    {
+      "slug": "an-evening-at-rendezoo",
+      "title": "An Evening at RendeZoo",
+      "date": "2026-06-25",
+      "category": "In The Community",
+      "image": "an-evening-at-rendezoo",
+      "excerpt": "Legacy Trust was proud to once again sponsor RendeZoo at John Ball Zoo this year. From the beautifully illuminated lantern displays to the strong sense of community, it was an incredible evening in support of…",
+      "source": "https://www.legacygr.com/news/an-evening-at-rendezoo/",
+      "video": false,
+      "hero": "an-evening-at-rendezoo-2"
+    },
+    {
+      "slug": "economic-club-of-grand-rapids-annual-dinner",
+      "title": "Economic Club of Grand Rapids Annual Dinner",
+      "date": "2026-06-03",
+      "category": "In The Community",
+      "image": "economic-club-of-grand-rapids-annual-dinner",
+      "excerpt": "Legacy Trust was pleased to sponsor a table at the Economic Club of Grand Rapids 37th Annual Dinner at DeVos Place.",
+      "source": "https://www.legacygr.com/news/economic-club-of-grand-rapids-annual-dinner/",
+      "video": false,
+      "hero": "economic-club-of-grand-rapids-annual-dinner-2"
+    },
+    {
+      "slug": "legacy-trust-day-of-service-at-millennium-park",
+      "title": "Legacy Trust Day of Service at Millennium Park",
+      "date": "2025-10-14",
+      "category": "In The Community",
+      "image": "legacy-trust-day-of-service-at-millennium-park",
+      "excerpt": "Our team had the privilege of volunteering with Kent County Parks at the beautiful Millennium Park, focusing on protecting the park’s natural habitat by controlling invasive species.",
+      "source": "https://www.legacygr.com/news/legacy-trust-day-of-service-at-millennium-park/",
+      "video": false,
+      "hero": "legacy-trust-day-of-service-at-millennium-park-2"
+    }
+  ],
+  "research": [
+    {
+      "title": "2026.10.06 Market Snapshot",
+      "date": "2026-10-07",
+      "category": "Market Snapshot",
+      "href": "https://www.legacygr.com/wp-content/uploads/2026/10/2026.10.06-Market-Snapshot.pdf"
+    },
+    {
+      "title": "2026.10.05 Market Snapshot",
+      "date": "2026-10-06",
+      "category": "Market Snapshot",
+      "href": "https://www.legacygr.com/wp-content/uploads/2026/10/2026.10.05-Market-Snapshot.pdf"
+    },
+    {
+      "title": "2026.10.02 Weekly Market Summary",
+      "date": "2026-10-05",
+      "category": "Weekly Market Summary",
+      "href": "https://www.legacygr.com/wp-content/uploads/2026/10/2026.10.02-Weekly-Market-Summary.pdf"
+    },
+    {
+      "title": "2026.10.01 Market Snapshot",
+      "date": "2026-10-02",
+      "category": "Market Snapshot",
+      "href": "https://www.legacygr.com/wp-content/uploads/2026/10/2026.10.01-Market-Snapshot.pdf"
+    },
+    {
+      "title": "2026.09.18 Weekly Market Summary",
+      "date": "2026-09-21",
+      "category": "Weekly Market Summary",
+      "href": "https://www.legacygr.com/wp-content/uploads/2026/09/2026.09.18-Weekly-Market-Summary.pdf"
+    },
+    {
+      "title": "2026.09.11 Weekly Market Summary",
+      "date": "2026-09-14",
+      "category": "Weekly Market Summary",
+      "href": "https://www.legacygr.com/wp-content/uploads/2026/09/2026.09.11-Weekly-Market-Summary.pdf"
+    },
+    {
+      "title": "2026.09.04 Weekly Market Summary",
+      "date": "2026-09-08",
+      "category": "Weekly Market Summary",
+      "href": "https://www.legacygr.com/wp-content/uploads/2026/09/2026.09.04-Weekly-Market-Summary.pdf"
+    },
+    {
+      "title": "2026.08.28 Weekly Market Summary",
+      "date": "2026-08-31",
+      "category": "Weekly Market Summary",
+      "href": "https://www.legacygr.com/wp-content/uploads/2026/08/2026.08.28-Weekly-Market-Summary.pdf"
+    }
+  ]
+}

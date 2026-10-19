@@ -1,0 +1,3266 @@
+[
+  {
+    "w": 360,
+    "route": "/",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 118,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 108.078125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 149.90625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/board-of-directors",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/board-of-directors",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 158.15625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/board-of-directors",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 185.03125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/careers",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/careers",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 158.15625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/careers",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 185.03125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 101.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 116.15625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.03125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/andrew-otten",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/andrew-otten",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/andrew-otten",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/ashley-barrett",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/ashley-barrett",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/ashley-barrett",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/bill-harrison",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/bill-harrison",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/bill-harrison",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/brian-balke",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/brian-balke",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/brian-balke",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/brian-moore",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/brian-moore",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/brian-moore",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/collin-hartley",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/collin-hartley",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/collin-hartley",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/gavin-anderson",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/gavin-anderson",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/gavin-anderson",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/greg-barshied",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/greg-barshied",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/greg-barshied",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/hope-lee",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/hope-lee",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/hope-lee",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/jeff-steeby",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/jeff-steeby",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/jeff-steeby",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/jeffrey-dixon",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/jeffrey-dixon",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/jeffrey-dixon",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/kelly-deridder",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/kelly-deridder",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/kelly-deridder",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/mark-periard",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/mark-periard",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/mark-periard",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/melanie-vanderhoff",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 633.875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/melanie-vanderhoff",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/melanie-vanderhoff",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/steven-doorn",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 608.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/steven-doorn",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/steven-doorn",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/our-team/tracey-hornbeck",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 633.875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/our-team/tracey-hornbeck",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.765625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/our-team/tracey-hornbeck",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 163.921875,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/about/the-legacy-difference",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/about/the-legacy-difference",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 158.15625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/about/the-legacy-difference",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 185.03125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/contact",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/contact",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 158.15625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/contact",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 185.03125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 101.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 116.15625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.03125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/2026-market-and-economic-outlook",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/2026-market-and-economic-outlook",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/2026-market-and-economic-outlook",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/2026-portfolio-insights-fixed-income-and-cash",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/2026-portfolio-insights-fixed-income-and-cash",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/2026-portfolio-insights-fixed-income-and-cash",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/an-evening-at-rendezoo",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/an-evening-at-rendezoo",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/an-evening-at-rendezoo",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/bitcoin-an-update-on-the-mercurial-cryptocurrency",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/bitcoin-an-update-on-the-mercurial-cryptocurrency",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/bitcoin-an-update-on-the-mercurial-cryptocurrency",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/brian-balke-among-crains-40-under-40-class-of-2026",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/brian-balke-among-crains-40-under-40-class-of-2026",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/brian-balke-among-crains-40-under-40-class-of-2026",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/brian-balke-joins-heart-of-west-michigan-united-way-board",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/brian-balke-joins-heart-of-west-michigan-united-way-board",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/brian-balke-joins-heart-of-west-michigan-united-way-board",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/bubble-jeopardy-the-differences-between-a-market-cycle-and-its-problematic-relative-the-financial-bubble",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/bubble-jeopardy-the-differences-between-a-market-cycle-and-its-problematic-relative-the-financial-bubble",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/bubble-jeopardy-the-differences-between-a-market-cycle-and-its-problematic-relative-the-financial-bubble",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/donor-advised-funds-a-flexible-way-to-give",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/donor-advised-funds-a-flexible-way-to-give",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/donor-advised-funds-a-flexible-way-to-give",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/economic-club-of-grand-rapids-annual-dinner",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/economic-club-of-grand-rapids-annual-dinner",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/economic-club-of-grand-rapids-annual-dinner",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/estate-planning-essentials-ranking-the-documents-that-matter-most",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/estate-planning-essentials-ranking-the-documents-that-matter-most",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/estate-planning-essentials-ranking-the-documents-that-matter-most",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/funding-your-trust",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/funding-your-trust",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/funding-your-trust",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/hope-lee-joins-legacy-trust",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/hope-lee-joins-legacy-trust",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/hope-lee-joins-legacy-trust",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/icles-66th-annual-probate-estate-planning-conference",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/icles-66th-annual-probate-estate-planning-conference",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/icles-66th-annual-probate-estate-planning-conference",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/legacy-at-wmsc-annual-golf-outing",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/legacy-at-wmsc-annual-golf-outing",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/legacy-at-wmsc-annual-golf-outing",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/legacy-trust-at-davenport-universitys-40th-annual-scholarship-golf-classic",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/legacy-trust-at-davenport-universitys-40th-annual-scholarship-golf-classic",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/legacy-trust-at-davenport-universitys-40th-annual-scholarship-golf-classic",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/legacy-trust-at-kids-food-basket",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/legacy-trust-at-kids-food-basket",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/legacy-trust-at-kids-food-basket",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/legacy-trust-day-of-service-at-millennium-park",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/legacy-trust-day-of-service-at-millennium-park",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/legacy-trust-day-of-service-at-millennium-park",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/legacy-trust-leaders-named-to-crains-gr200",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/legacy-trust-leaders-named-to-crains-gr200",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/legacy-trust-leaders-named-to-crains-gr200",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/legacy-trust-named-one-of-west-michigans-best-and-brightest-companies-to-work-for-2",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/legacy-trust-named-one-of-west-michigans-best-and-brightest-companies-to-work-for-2",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/legacy-trust-named-one-of-west-michigans-best-and-brightest-companies-to-work-for-2",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/state-of-the-market",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/state-of-the-market",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/state-of-the-market",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/tariffs-1-year-later",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/tariffs-1-year-later",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/tariffs-1-year-later",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/the-liquidity-event-you-didnt-plan-for",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/the-liquidity-event-you-didnt-plan-for",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/the-liquidity-event-you-didnt-plan-for",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/the-michigan-retirement-income-exemption",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/the-michigan-retirement-income-exemption",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/the-michigan-retirement-income-exemption",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/valuations-and-returns-beyond-2025",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/valuations-and-returns-beyond-2025",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/valuations-and-returns-beyond-2025",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/welcoming-bill-harrison-to-our-team",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/welcoming-bill-harrison-to-our-team",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/welcoming-bill-harrison-to-our-team",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/insights/where-do-we-stand-with-tariffs",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 140.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/insights/where-do-we-stand-with-tariffs",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 155.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/insights/where-do-we-stand-with-tariffs",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 180.734375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/no-such-page",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 237.609375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/no-such-page",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 267.09375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/no-such-page",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 262.453125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/privacy-policy",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/privacy-policy",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 158.15625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/privacy-policy",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 185.03125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/services",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/services",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 158.15625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/services",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 185.03125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/services/family-office",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 149.53125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/services/family-office",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 164.25,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/services/family-office",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 191.125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/services/investment-management",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 149.53125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/services/investment-management",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 164.25,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/services/investment-management",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 191.125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/services/trustee-services",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 149.53125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/services/trustee-services",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 164.25,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/services/trustee-services",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 453.265625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/services/wealth-planning",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 149.53125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/services/wealth-planning",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 164.25,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/services/wealth-planning",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 630.53125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/usa-patriot-act",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/usa-patriot-act",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 158.15625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/usa-patriot-act",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 185.03125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/who-we-serve",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 143.4375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/who-we-serve",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 158.15625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/who-we-serve",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 185.03125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/who-we-serve/business-owners",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 158.40625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/who-we-serve/business-owners",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 177.984375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/who-we-serve/business-owners",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 144.328125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/who-we-serve/corporate-executives",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 158.40625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/who-we-serve/corporate-executives",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 177.984375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/who-we-serve/corporate-executives",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 144.328125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/who-we-serve/foundations-endowments",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 183.84375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/who-we-serve/foundations-endowments",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 177.984375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/who-we-serve/foundations-endowments",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 144.328125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/who-we-serve/multi-generational-families",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 183.84375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/who-we-serve/multi-generational-families",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 177.984375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/who-we-serve/multi-generational-families",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 144.328125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/who-we-serve/retirees",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 158.40625,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/who-we-serve/retirees",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 177.984375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/who-we-serve/retirees",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 144.328125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 360,
+    "route": "/who-we-serve/special-needs-families",
+    "errors": [],
+    "scrollWidth": 360,
+    "vw": 360,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 183.84375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 768,
+    "route": "/who-we-serve/special-needs-families",
+    "errors": [],
+    "scrollWidth": 768,
+    "vw": 768,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 177.984375,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  },
+  {
+    "w": 1440,
+    "route": "/who-we-serve/special-needs-families",
+    "errors": [],
+    "scrollWidth": 1440,
+    "vw": 1440,
+    "overflow": [],
+    "clipped": [],
+    "invisible": [],
+    "stuck": [],
+    "headerOverlap": 144.328125,
+    "credit": {
+      "href": "https://coreconcepts.design/",
+      "target": "_blank",
+      "rel": "noopener noreferrer"
+    }
+  }
+]
